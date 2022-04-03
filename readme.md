@@ -27,9 +27,14 @@
 
 2.Big-O gösterimini yazınız.
 
+<<<<<<< HEAD
   n+(n-1)+(n-2)+...+1=n*(n+1)/2->(n^2+n)/2
   Big-O-> O(n^2)'dir.
 ...
+=======
+     n+(n-1)+(n-2)+...+1=n*(n+1)/2->(n^2+n)/2
+     Big-O-> O(n^2)'dir.
+>>>>>>> 1ad34c74cbd138416e1c4c09f0e878cc7d905a2a
 
 3.3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
