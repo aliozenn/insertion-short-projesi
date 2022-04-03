@@ -6,7 +6,8 @@
 
 2.Big-O gösterimini yazınız.
 
-3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, 
+Best case: Aradığımız sayının dizinin en başında olması.
 
 4.Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
@@ -22,7 +23,8 @@
      n+(n-1)+(n-2)+...+1=n*(n+1)/2->(n^2+n)/2
     Big-O-> O(n^2)'dir.
 
-    3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+    3.Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, 
+    Best case: Aradığımız sayının dizinin en başında olması.
 
     Worst case: O(n^2)
     Average case: O(n^2)
